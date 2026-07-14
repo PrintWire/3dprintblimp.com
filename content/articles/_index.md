@@ -1,4 +1,4 @@
 ---
-title: "3D Print Stone Articles"
-description: "Research coverage, technical analysis, and industry news from the 3d print stone field."
+title: "3D Print Blimp Articles"
+description: "Research coverage, technical analysis, and industry news from airship and aerostat additive manufacturing."
 ---
