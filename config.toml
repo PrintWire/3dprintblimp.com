@@ -15,7 +15,7 @@ title = "3D Print Blimp"
 # static/index.html, which Hugo copies over its own generated index.html.
 [params]
 siteName    = "3D Print Blimp"
-description = "Additive manufacturing for airships and aerostats — structures, envelopes, and propulsion hardware."
+description = "3D Print Blimp is a PrintWire network site about 3D printing for airships and aerostats. PrintWire passes quote requests to specialised manufacturers and returns pricing. PrintWire does not manufacture parts itself."
 logoHtml    = '3D&nbsp;PRINT&nbsp;<span class="ed-logo-accent">BLIMP</span>'
 ogImage     = "/images/01_hero_lattice_gondola.png"
 heroImage   = "images/01_hero_lattice_gondola.png"
